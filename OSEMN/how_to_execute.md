@@ -1,0 +1,3 @@
+In VS Code / Jupyter: open obtain_fer.ipynb, then in the kernel picker choose Python Environments → the osemn-obtain-fer venv (Poetry's virtualenv). If it doesn't show up, register it once: poetry run python -m ipykernel install --user --name osemn-obtain-fer.
+Run any command in the env: poetry run python ... from inside OSEMN/.
+Recreate on another machine: cd OSEMN && poetry install (installs exactly the locked versions).

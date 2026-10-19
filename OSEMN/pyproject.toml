@@ -1,0 +1,29 @@
+[project]
+name = "osemn-obtain-fer"
+version = "0.1.0"
+description = "Obtain stage (OSEMN) of the Facial Expression Recognition pipeline - MediaPipe FaceMesh on still images"
+authors = [{ name = "Barradas13", email = "febarradas13@gmail.com" }]
+# mediapipe==0.10.21 ships wheels for Python 3.9-3.12; the resolved stack
+# (pandas 3.x, scipy 1.17, ...) needs >=3.11, and the notebook targets 3.12
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    # pinned exactly as referenced throughout obtain_fer.ipynb (solutions API)
+    "mediapipe==0.10.21",
+    # mediapipe 0.10.21 requires numpy<2
+    "numpy>=1.26,<2",
+    # mediapipe depends on opencv-contrib-python; declaring it here (instead of
+    # plain opencv-python) avoids two conflicting copies of cv2 in the env
+    "opencv-contrib-python>=4.10",
+    "pandas>=2.2",
+    "tqdm>=4.66", # optional import in the notebook (tqdm.auto)
+]
+
+[tool.poetry]
+package-mode = false # notebooks folder, no importable package
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29" # lets VS Code / Jupyter use this env as the notebook kernel
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
