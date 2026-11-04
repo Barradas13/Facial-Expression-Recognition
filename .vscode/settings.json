@@ -1,0 +1,17 @@
+{
+  // Notebook kernels are started with the notebook's own folder as the working
+  // directory (this is also VS Code's default), so the relative paths used by
+  // the notebooks -- ./data/images, ./outputs -- resolve against OSEMN/.
+  "jupyter.notebookFileRoot": "${fileDirname}",
+
+  // The Poetry virtualenv declared in OSEMN/pyproject.toml (Python 3.12).
+  // Machine-specific: recreate with `cd OSEMN; poetry env list --full-path`.
+  // `poetry run python tools/setup_kernel.py` registers it as a Jupyter kernel
+  // too, which is what the notebook kernel picker shows.
+  "python.defaultInterpreterPath": "C:\\Users\\felip\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\osemn-obtain-fer-MP28oxs9-py3.12\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true,
+
+  // Easier to reference a cell/line when reporting an error.
+  "notebook.lineNumbers": "on",
+  "notebook.output.textLineLimit": 60
+}
