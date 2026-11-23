@@ -16,7 +16,7 @@ CONFIG: Dict[str, Any] = {
     "blur_threshold": 10.0,                # min Laplacian variance
     "brightness_low": 40.0,                 # mean gray below => too dark
     "brightness_high": 220.0,               # mean gray above => too bright
-    "min_resolution": 64,                   # min(width, height) in px
+    "min_resolution": 32,                   # min(width, height) in px
     # --- crop / alignment ------------------------------------------------------
     "crop_margin": 0.20,                    # fraction of bbox size padded around landmarks
     "align_output_size": (224, 224),        # canonical crop size (CNN-friendly)

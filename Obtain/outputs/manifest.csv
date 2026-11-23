@@ -1,3 +1,0 @@
-image_path,source,subject_id,label,width,height,face_found,n_landmarks,blur_score,brightness,rejected_reason
-data\Happy\aug_102_21.jpg,Happy,aug,smile,2560,1440,True,478,55.86228385449513,140.26213406032986,
-data\Sad\aug_12_21.jpg,Sad,aug,sad,2560,1440,True,478,54.718187912421136,139.69262613932293,
