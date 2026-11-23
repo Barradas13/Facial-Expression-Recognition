@@ -1,0 +1,22 @@
+[project]
+name = "obtain"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Barradas13",email = "febarradas13@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "opencv-python (>=4.11.0.86,<4.12.0)",
+    "mediapipe (==0.10.21)",
+    "tqdm (>=4.70.1,<5.0.0)",
+    "pandas (>=2.3,<3.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "obtain", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
