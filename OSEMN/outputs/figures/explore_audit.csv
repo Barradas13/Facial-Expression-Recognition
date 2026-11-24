@@ -1,0 +1,12 @@
+,value
+images_found,4254.0
+accepted,3989.0
+rejected_%,6.2
+face_detection_rate_%,100.0
+unlabeled_%,0.0
+group_photos_(n_faces>1),14.0
+n_sources,3.0
+n_subjects,2.0
+short_side_median_px,48.0
+blur_median,2001.513784432117
+class_imbalance_max_over_min,1.56

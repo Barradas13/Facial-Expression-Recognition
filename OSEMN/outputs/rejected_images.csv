@@ -1,0 +1,266 @@
+image_path,source,subject_id,label,width,height,blur_score,brightness,rejected_reason
+data/happy/PrivateTest_11155116.jpg,happy,PrivateTest,smile,48,48,2494.6304643419053,202.04513888888889,no face detected
+data/happy/PrivateTest_27353025.jpg,happy,PrivateTest,smile,48,48,832.6859055507331,90.14670138888889,no face detected
+data/happy/PrivateTest_27554547.jpg,happy,PrivateTest,smile,48,48,1284.7744494779608,209.40277777777777,no face detected
+data/happy/PrivateTest_2911075.jpg,happy,PrivateTest,smile,48,48,1682.319817437066,226.45008680555554,too bright: mean_gray=226.5 > 220
+data/happy/PrivateTest_32718461.jpg,happy,PrivateTest,smile,48,48,2178.4595312424644,175.81640625,no face detected
+data/happy/PrivateTest_32948055.jpg,happy,PrivateTest,smile,48,48,2150.3709353223257,152.08203125,no face detected
+data/happy/PrivateTest_35915421.jpg,happy,PrivateTest,smile,48,48,350.9173712082851,32.484375,too dark: mean_gray=32.5 < 40
+data/happy/PrivateTest_3783569.jpg,happy,PrivateTest,smile,48,48,1359.1512315538193,162.43402777777777,no face detected
+data/happy/PrivateTest_4315069.jpg,happy,PrivateTest,smile,48,48,1755.458523220486,132.33897569444446,no face detected
+data/happy/PrivateTest_44648662.jpg,happy,PrivateTest,smile,48,48,2904.218604570554,161.11979166666666,no face detected
+data/happy/PrivateTest_45910002.jpg,happy,PrivateTest,smile,48,48,356.5232016480999,84.78689236111111,no face detected
+data/happy/PrivateTest_4871052.jpg,happy,PrivateTest,smile,48,48,80.82686191134982,19.94487847222222,too dark: mean_gray=19.9 < 40
+data/happy/PrivateTest_55512604.jpg,happy,PrivateTest,smile,48,48,1551.495373196072,178.86328125,no face detected
+data/happy/PrivateTest_58355446.jpg,happy,PrivateTest,smile,48,48,2598.0993554386096,90.32335069444444,no face detected
+data/happy/PrivateTest_61352712.jpg,happy,PrivateTest,smile,48,48,3074.6872134738496,82.8671875,no face detected
+data/happy/PrivateTest_61499973.jpg,happy,PrivateTest,smile,48,48,1576.9691832742574,153.24826388888889,no face detected
+data/happy/PrivateTest_62370092.jpg,happy,PrivateTest,smile,48,48,2001.3482618920598,170.35112847222223,no face detected
+data/happy/PrivateTest_63176014.jpg,happy,PrivateTest,smile,48,48,4578.670030381944,191.64756944444446,no face detected
+data/happy/PrivateTest_70810444.jpg,happy,PrivateTest,smile,48,48,1540.261272665895,164.31206597222223,no face detected
+data/happy/PrivateTest_71440071.jpg,happy,PrivateTest,smile,48,48,3496.8309444851348,98.99305555555556,no face detected
+data/happy/PrivateTest_73219906.jpg,happy,PrivateTest,smile,48,48,5145.508214691539,110.73567708333333,no face detected
+data/happy/PrivateTest_73482952.jpg,happy,PrivateTest,smile,48,48,3887.9549061339576,99.12109375,no face detected
+data/happy/PrivateTest_74293567.jpg,happy,PrivateTest,smile,48,48,4127.532750259211,181.29904513888889,no face detected
+data/happy/PrivateTest_75418974.jpg,happy,PrivateTest,smile,48,48,2325.620849609375,72.46310763888889,no face detected
+data/happy/PrivateTest_75977204.jpg,happy,PrivateTest,smile,48,48,2543.701858332128,163.91059027777777,no face detected
+data/happy/PrivateTest_8036657.jpg,happy,PrivateTest,smile,48,48,2259.230601369599,108.125,no face detected
+data/happy/PrivateTest_81431646.jpg,happy,PrivateTest,smile,48,48,1436.4296867464795,141.20138888888889,no face detected
+data/happy/PrivateTest_82666275.jpg,happy,PrivateTest,smile,48,48,7342.0283444251545,159.95008680555554,no face detected
+data/happy/PrivateTest_82776167.jpg,happy,PrivateTest,smile,48,48,284.94210476345484,36.864583333333336,too dark: mean_gray=36.9 < 40
+data/happy/PrivateTest_85826121.jpg,happy,PrivateTest,smile,48,48,201.6054595193745,37.173611111111114,too dark: mean_gray=37.2 < 40
+data/happy/PrivateTest_90198447.jpg,happy,PrivateTest,smile,48,48,2119.7534172152295,187.99869791666666,no face detected
+data/happy/PrivateTest_90595495.jpg,happy,PrivateTest,smile,48,48,2548.5217644962268,168.51085069444446,no face detected
+data/happy/PrivateTest_92171408.jpg,happy,PrivateTest,smile,48,48,1508.9569558979554,65.13975694444444,no face detected
+data/happy/PrivateTest_98023411.jpg,happy,PrivateTest,smile,48,48,1353.4254007221741,171.78993055555554,no face detected
+data/happy/PrivateTest_99691745.jpg,happy,PrivateTest,smile,48,48,2364.763427734375,84.41493055555556,no face detected
+data/happy/PublicTest_17367817.jpg,happy,PublicTest,smile,48,48,2651.1367360809704,145.26519097222223,no face detected
+data/happy/PublicTest_21832858.jpg,happy,PublicTest,smile,48,48,82.02303888768326,5.067708333333333,too dark: mean_gray=5.1 < 40
+data/happy/PublicTest_25718007.jpg,happy,PublicTest,smile,48,48,1150.177100664304,151.80946180555554,no face detected
+data/happy/PublicTest_27009464.jpg,happy,PublicTest,smile,48,48,2809.1658950617284,124.37847222222223,no face detected
+data/happy/PublicTest_30360811.jpg,happy,PublicTest,smile,48,48,411.0862961757331,135.07986111111111,no face detected
+data/happy/PublicTest_33025709.jpg,happy,PublicTest,smile,48,48,6073.201198813356,138.1328125,no face detected
+data/happy/PublicTest_33635814.jpg,happy,PublicTest,smile,48,48,835.4968050733025,124.63541666666667,no face detected
+data/happy/PublicTest_36327304.jpg,happy,PublicTest,smile,48,48,5504.663491143121,158.31901041666666,no face detected
+data/happy/PublicTest_40705304.jpg,happy,PublicTest,smile,48,48,1730.4887868622204,172.22699652777777,no face detected
+data/happy/PublicTest_54232205.jpg,happy,PublicTest,smile,48,48,3041.8052961561416,128.31163194444446,no face detected
+data/happy/PublicTest_55596965.jpg,happy,PublicTest,smile,48,48,2882.3148261176216,116.07248263888889,no face detected
+data/happy/PublicTest_56093808.jpg,happy,PublicTest,smile,48,48,1418.6011961006825,141.82899305555554,no face detected
+data/happy/PublicTest_59955381.jpg,happy,PublicTest,smile,48,48,1091.3627882592473,180.54296875,no face detected
+data/happy/PublicTest_61141696.jpg,happy,PublicTest,smile,48,48,4723.068751017253,70.58810763888889,no face detected
+data/happy/PublicTest_62130282.jpg,happy,PublicTest,smile,48,48,809.8467322455513,115.19574652777777,no face detected
+data/happy/PublicTest_65112748.jpg,happy,PublicTest,smile,48,48,1581.1547623622564,119.77864583333333,no face detected
+data/happy/PublicTest_70696031.jpg,happy,PublicTest,smile,48,48,1943.9006973078222,203.02430555555554,no face detected
+data/happy/PublicTest_75188569.jpg,happy,PublicTest,smile,48,48,1104.392575110918,119.56857638888889,no face detected
+data/happy/PublicTest_7780799.jpg,happy,PublicTest,smile,48,48,4496.7144954351725,67.18967013888889,no face detected
+data/happy/PublicTest_80906126.jpg,happy,PublicTest,smile,48,48,1481.6757330246915,63.11024305555556,no face detected
+data/happy/PublicTest_82333206.jpg,happy,PublicTest,smile,48,48,1467.63671875,133.56293402777777,no face detected
+data/happy/PublicTest_82553712.jpg,happy,PublicTest,smile,48,48,1238.1342213948567,220.71137152777777,too bright: mean_gray=220.7 > 220
+data/happy/PublicTest_82925571.jpg,happy,PublicTest,smile,48,48,2417.27139998071,96.46267361111111,no face detected
+data/happy/PublicTest_8451615.jpg,happy,PublicTest,smile,48,48,1684.2981582453224,143.37196180555554,no face detected
+data/happy/PublicTest_858686.jpg,happy,PublicTest,smile,48,48,2528.8731958836684,165.52039930555554,no face detected
+data/happy/PublicTest_87715051.jpg,happy,PublicTest,smile,48,48,899.3179342010875,169.67795138888889,no face detected
+data/happy/PublicTest_89481334.jpg,happy,PublicTest,smile,48,48,1242.318886650933,100.22569444444444,no face detected
+data/happy/PublicTest_89522352.jpg,happy,PublicTest,smile,48,48,2310.4232432047525,164.81727430555554,no face detected
+data/happy/PublicTest_97150877.jpg,happy,PublicTest,smile,48,48,3557.1783371913575,130.1875,no face detected
+data/happy/PublicTest_97297069.jpg,happy,PublicTest,smile,48,48,1028.570058563609,167.34461805555554,no face detected
+data/happy/PublicTest_9795756.jpg,happy,PublicTest,smile,48,48,1877.142817556122,121.39149305555556,no face detected
+data/neutral/PrivateTest_11262548.jpg,neutral,PrivateTest,neutral,48,48,3939.5693962191353,112.10069444444444,no face detected
+data/neutral/PrivateTest_12208844.jpg,neutral,PrivateTest,neutral,48,48,2508.409389919705,127.13541666666667,no face detected
+data/neutral/PrivateTest_15353271.jpg,neutral,PrivateTest,neutral,48,48,7214.542534722223,14.311631944444445,too dark: mean_gray=14.3 < 40
+data/neutral/PrivateTest_18187501.jpg,neutral,PrivateTest,neutral,48,48,2428.4201296582632,156.54123263888889,no face detected
+data/neutral/PrivateTest_18381227.jpg,neutral,PrivateTest,neutral,48,48,374.5866953531901,42.3125,no face detected
+data/neutral/PrivateTest_1844176.jpg,neutral,PrivateTest,neutral,48,48,742.3410004038869,175.88802083333334,no face detected
+data/neutral/PrivateTest_24612063.jpg,neutral,PrivateTest,neutral,48,48,1597.0973186728395,129.32248263888889,no face detected
+data/neutral/PrivateTest_26804026.jpg,neutral,PrivateTest,neutral,48,48,4902.045933852962,124.33289930555556,no face detected
+data/neutral/PrivateTest_27995843.jpg,neutral,PrivateTest,neutral,48,48,1817.4746724823374,152.54036458333334,no face detected
+data/neutral/PrivateTest_2921450.jpg,neutral,PrivateTest,neutral,48,48,674.6679318274979,98.79036458333333,no face detected
+data/neutral/PrivateTest_30720718.jpg,neutral,PrivateTest,neutral,48,48,913.1740421248071,148.36501736111111,no face detected
+data/neutral/PrivateTest_35490031.jpg,neutral,PrivateTest,neutral,48,48,17191.01407708062,96.50911458333333,no face detected
+data/neutral/PrivateTest_39719128.jpg,neutral,PrivateTest,neutral,48,48,3569.8073095627774,133.27777777777777,no face detected
+data/neutral/PrivateTest_46832698.jpg,neutral,PrivateTest,neutral,48,48,2432.902523841387,158.19227430555554,no face detected
+data/neutral/PrivateTest_53606556.jpg,neutral,PrivateTest,neutral,48,48,2165.890533824026,114.54253472222223,no face detected
+data/neutral/PrivateTest_57076415.jpg,neutral,PrivateTest,neutral,48,48,956.701990009826,214.51779513888889,no face detected
+data/neutral/PrivateTest_65309122.jpg,neutral,PrivateTest,neutral,48,48,5018.978988647461,105.58159722222223,no face detected
+data/neutral/PrivateTest_6781759.jpg,neutral,PrivateTest,neutral,48,48,2083.5502379617574,132.93012152777777,no face detected
+data/neutral/PrivateTest_67945307.jpg,neutral,PrivateTest,neutral,48,48,1856.0439061294367,170.41189236111111,no face detected
+data/neutral/PrivateTest_71031944.jpg,neutral,PrivateTest,neutral,48,48,944.807127210829,143.73567708333334,no face detected
+data/neutral/PrivateTest_71340120.jpg,neutral,PrivateTest,neutral,48,48,358.97005132981286,104.00998263888889,no face detected
+data/neutral/PrivateTest_83045831.jpg,neutral,PrivateTest,neutral,48,48,3293.0266919548135,111.02994791666667,no face detected
+data/neutral/PrivateTest_86472584.jpg,neutral,PrivateTest,neutral,48,48,611.6098090277778,96.99739583333333,no face detected
+data/neutral/PrivateTest_89702282.jpg,neutral,PrivateTest,neutral,48,48,2187.5059678819443,141.05946180555554,no face detected
+data/neutral/PrivateTest_95199363.jpg,neutral,PrivateTest,neutral,48,48,1666.8013411156926,46.657986111111114,no face detected
+data/neutral/PrivateTest_9952944.jpg,neutral,PrivateTest,neutral,48,48,516.2948523627388,95.05425347222223,no face detected
+data/neutral/PrivateTest_99703424.jpg,neutral,PrivateTest,neutral,48,48,1043.905948591821,148.06597222222223,no face detected
+data/neutral/PublicTest_14191068.jpg,neutral,PublicTest,neutral,48,48,1203.605310322326,128.97092013888889,no face detected
+data/neutral/PublicTest_15550175.jpg,neutral,PublicTest,neutral,48,48,3839.718602309992,67.68706597222223,no face detected
+data/neutral/PublicTest_19492189.jpg,neutral,PublicTest,neutral,48,48,2767.752689879618,137.92925347222223,no face detected
+data/neutral/PublicTest_24268857.jpg,neutral,PublicTest,neutral,48,48,4357.684229532878,115.125,no face detected
+data/neutral/PublicTest_28380934.jpg,neutral,PublicTest,neutral,48,48,2407.9465375358673,188.27777777777777,no face detected
+data/neutral/PublicTest_34947022.jpg,neutral,PublicTest,neutral,48,48,4002.3967238061223,117.25520833333333,no face detected
+data/neutral/PublicTest_41463579.jpg,neutral,PublicTest,neutral,48,48,1506.173493373541,102.32638888888889,no face detected
+data/neutral/PublicTest_43180245.jpg,neutral,PublicTest,neutral,48,48,731.652485411844,33.1484375,too dark: mean_gray=33.1 < 40
+data/neutral/PublicTest_45090015.jpg,neutral,PublicTest,neutral,48,48,1408.4809743622202,91.40581597222223,no face detected
+data/neutral/PublicTest_45279125.jpg,neutral,PublicTest,neutral,48,48,2876.4875848087268,156.13411458333334,no face detected
+data/neutral/PublicTest_50196852.jpg,neutral,PublicTest,neutral,48,48,3326.785397376543,93.95920138888889,no face detected
+data/neutral/PublicTest_53331541.jpg,neutral,PublicTest,neutral,48,48,737.0905473497179,109.4765625,no face detected
+data/neutral/PublicTest_65256004.jpg,neutral,PublicTest,neutral,48,48,4136.419484833141,120.91232638888889,no face detected
+data/neutral/PublicTest_69342366.jpg,neutral,PublicTest,neutral,48,48,2288.824749228395,20.365885416666668,too dark: mean_gray=20.4 < 40
+data/neutral/PublicTest_7027162.jpg,neutral,PublicTest,neutral,48,48,3849.468939887153,97.01822916666667,no face detected
+data/neutral/PublicTest_75223347.jpg,neutral,PublicTest,neutral,48,48,559.2447848849827,158.15885416666666,no face detected
+data/neutral/PublicTest_75760032.jpg,neutral,PublicTest,neutral,48,48,1742.6436262719426,181.74652777777777,no face detected
+data/neutral/PublicTest_84113329.jpg,neutral,PublicTest,neutral,48,48,510.37929035704815,29.077256944444443,too dark: mean_gray=29.1 < 40
+data/neutral/PublicTest_91056764.jpg,neutral,PublicTest,neutral,48,48,4742.302805959443,161.13888888888889,no face detected
+data/neutral/PublicTest_92682266.jpg,neutral,PublicTest,neutral,48,48,1145.4309336344402,60.09678819444444,no face detected
+data/neutral/PublicTest_92867331.jpg,neutral,PublicTest,neutral,48,48,2056.272731451341,171.89583333333334,no face detected
+data/neutral/PublicTest_98518810.jpg,neutral,PublicTest,neutral,48,48,2766.5675453845365,157.8828125,no face detected
+data/sad/PrivateTest_11127811.jpg,sad,PrivateTest,sad,48,48,3462.4380408393017,151.68576388888889,no face detected
+data/sad/PrivateTest_12667445.jpg,sad,PrivateTest,sad,48,48,818.515394234363,127.86328125,no face detected
+data/sad/PrivateTest_1313210.jpg,sad,PrivateTest,sad,48,48,954.2676819224416,138.89583333333334,no face detected
+data/sad/PrivateTest_13548922.jpg,sad,PrivateTest,sad,48,48,223.5338421103395,28.143229166666668,too dark: mean_gray=28.1 < 40
+data/sad/PrivateTest_15444839.jpg,sad,PrivateTest,sad,48,48,2782.558936601804,112.53602430555556,no face detected
+data/sad/PrivateTest_15886483.jpg,sad,PrivateTest,sad,48,48,3499.7586517333984,150.61414930555554,no face detected
+data/sad/PrivateTest_17770169.jpg,sad,PrivateTest,sad,48,48,1486.8045471568164,104.30989583333333,no face detected
+data/sad/PrivateTest_1942677.jpg,sad,PrivateTest,sad,48,48,1652.5655771891277,134.02387152777777,no face detected
+data/sad/PrivateTest_21379308.jpg,sad,PrivateTest,sad,48,48,1399.8371122383778,82.84678819444444,no face detected
+data/sad/PrivateTest_23248169.jpg,sad,PrivateTest,sad,48,48,2448.6522742377388,140.45746527777777,no face detected
+data/sad/PrivateTest_2480725.jpg,sad,PrivateTest,sad,48,48,3356.432440675335,60.12847222222222,no face detected
+data/sad/PrivateTest_27121750.jpg,sad,PrivateTest,sad,48,48,1410.8060014512803,148.02821180555554,no face detected
+data/sad/PrivateTest_33408688.jpg,sad,PrivateTest,sad,48,48,441.77692705319254,137.19487847222223,no face detected
+data/sad/PrivateTest_35208467.jpg,sad,PrivateTest,sad,48,48,1825.7420789930557,66.99305555555556,no face detected
+data/sad/PrivateTest_35926258.jpg,sad,PrivateTest,sad,48,48,709.9139170705536,39.72178819444444,too dark: mean_gray=39.7 < 40
+data/sad/PrivateTest_3594279.jpg,sad,PrivateTest,sad,48,48,1750.5691187352309,156.88585069444446,no face detected
+data/sad/PrivateTest_37840020.jpg,sad,PrivateTest,sad,48,48,1452.8268040786554,166.52994791666666,no face detected
+data/sad/PrivateTest_38870366.jpg,sad,PrivateTest,sad,48,48,3576.8237575954863,114.00694444444444,no face detected
+data/sad/PrivateTest_39876925.jpg,sad,PrivateTest,sad,48,48,4070.437207634066,185.42621527777777,no face detected
+data/sad/PrivateTest_42478205.jpg,sad,PrivateTest,sad,48,48,2227.8110886562017,134.73741319444446,no face detected
+data/sad/PrivateTest_47048382.jpg,sad,PrivateTest,sad,48,48,2564.990541057822,78.13975694444444,no face detected
+data/sad/PrivateTest_47186743.jpg,sad,PrivateTest,sad,48,48,1640.774105872637,144.28645833333334,no face detected
+data/sad/PrivateTest_47322087.jpg,sad,PrivateTest,sad,48,48,798.6438613703222,94.97743055555556,no face detected
+data/sad/PrivateTest_50248274.jpg,sad,PrivateTest,sad,48,48,1014.2069994137611,122.87065972222223,no face detected
+data/sad/PrivateTest_50403539.jpg,sad,PrivateTest,sad,48,48,3268.856143904321,117.74565972222223,no face detected
+data/sad/PrivateTest_50560966.jpg,sad,PrivateTest,sad,48,48,1730.0947263741198,83.72612847222223,no face detected
+data/sad/PrivateTest_51679046.jpg,sad,PrivateTest,sad,48,48,1453.0660654703777,90.34635416666667,no face detected
+data/sad/PrivateTest_51713257.jpg,sad,PrivateTest,sad,48,48,325.6145921871986,32.09722222222222,too dark: mean_gray=32.1 < 40
+data/sad/PrivateTest_51930291.jpg,sad,PrivateTest,sad,48,48,2741.0398067898223,94.71354166666667,no face detected
+data/sad/PrivateTest_52635315.jpg,sad,PrivateTest,sad,48,48,1827.4300655788845,118.29210069444444,no face detected
+data/sad/PrivateTest_5338389.jpg,sad,PrivateTest,sad,48,48,1853.0363345675999,41.533420138888886,no face detected
+data/sad/PrivateTest_53534458.jpg,sad,PrivateTest,sad,48,48,1646.257351345486,96.80512152777777,no face detected
+data/sad/PrivateTest_54121246.jpg,sad,PrivateTest,sad,48,48,1771.379881117079,141.33072916666666,no face detected
+data/sad/PrivateTest_54736675.jpg,sad,PrivateTest,sad,48,48,1951.4496510823567,125.17057291666667,no face detected
+data/sad/PrivateTest_56728980.jpg,sad,PrivateTest,sad,48,48,3461.412452226804,171.56684027777777,no face detected
+data/sad/PrivateTest_57624251.jpg,sad,PrivateTest,sad,48,48,1560.0475230275847,86.07769097222223,no face detected
+data/sad/PrivateTest_60802329.jpg,sad,PrivateTest,sad,48,48,2295.9283159044053,176.81510416666666,no face detected
+data/sad/PrivateTest_63836308.jpg,sad,PrivateTest,sad,48,48,3455.764728122287,108.98394097222223,no face detected
+data/sad/PrivateTest_65376947.jpg,sad,PrivateTest,sad,48,48,547.636562017747,32.07378472222222,too dark: mean_gray=32.1 < 40
+data/sad/PrivateTest_65546158.jpg,sad,PrivateTest,sad,48,48,1708.7882846785183,106.29340277777777,no face detected
+data/sad/PrivateTest_65897797.jpg,sad,PrivateTest,sad,48,48,3742.6163855658638,115.96875,no face detected
+data/sad/PrivateTest_69698407.jpg,sad,PrivateTest,sad,48,48,2409.982121785482,109.32248263888889,no face detected
+data/sad/PrivateTest_69890745.jpg,sad,PrivateTest,sad,48,48,1688.3092417775847,169.15234375,no face detected
+data/sad/PrivateTest_70227023.jpg,sad,PrivateTest,sad,48,48,1388.7612847222222,169.69010416666666,no face detected
+data/sad/PrivateTest_70573408.jpg,sad,PrivateTest,sad,48,48,1913.0140870647665,119.63194444444444,no face detected
+data/sad/PrivateTest_70820261.jpg,sad,PrivateTest,sad,48,48,813.0527584876543,128.92795138888889,no face detected
+data/sad/PrivateTest_75239677.jpg,sad,PrivateTest,sad,48,48,1811.2117987738716,141.15581597222223,no face detected
+data/sad/PrivateTest_77136127.jpg,sad,PrivateTest,sad,48,48,1314.720474054784,137.80815972222223,no face detected
+data/sad/PrivateTest_78253046.jpg,sad,PrivateTest,sad,48,48,3574.1479552469136,104.66449652777777,no face detected
+data/sad/PrivateTest_78354100.jpg,sad,PrivateTest,sad,48,48,3373.8934393988716,132.15711805555554,no face detected
+data/sad/PrivateTest_7839088.jpg,sad,PrivateTest,sad,48,48,2152.5987185254507,132.36241319444446,no face detected
+data/sad/PrivateTest_80346458.jpg,sad,PrivateTest,sad,48,48,3930.2715474823376,119.20659722222223,no face detected
+data/sad/PrivateTest_82792706.jpg,sad,PrivateTest,sad,48,48,1186.937698741018,244.29340277777777,too bright: mean_gray=244.3 > 220
+data/sad/PrivateTest_87408076.jpg,sad,PrivateTest,sad,48,48,624.2415967399692,34.997829861111114,too dark: mean_gray=35.0 < 40
+data/sad/PrivateTest_87734061.jpg,sad,PrivateTest,sad,48,48,2184.4532809787324,126.44791666666667,no face detected
+data/sad/PrivateTest_92008041.jpg,sad,PrivateTest,sad,48,48,2081.568490299178,159.78732638888889,no face detected
+data/sad/PrivateTest_92062027.jpg,sad,PrivateTest,sad,48,48,556.7572275797526,35.71137152777778,too dark: mean_gray=35.7 < 40
+data/sad/PrivateTest_93497063.jpg,sad,PrivateTest,sad,48,48,639.1485934787327,156.78168402777777,no face detected
+data/sad/PrivateTest_94692871.jpg,sad,PrivateTest,sad,48,48,263.589348687066,25.684895833333332,too dark: mean_gray=25.7 < 40
+data/sad/PrivateTest_94749295.jpg,sad,PrivateTest,sad,48,48,1709.6127718701773,116.22178819444444,no face detected
+data/sad/PrivateTest_95590815.jpg,sad,PrivateTest,sad,48,48,2032.8417424331476,92.95442708333333,no face detected
+data/sad/PublicTest_11691697.jpg,sad,PublicTest,sad,48,48,1327.327977309992,121.14453125,no face detected
+data/sad/PublicTest_12445901.jpg,sad,PublicTest,sad,48,48,927.174243879907,99.73654513888889,no face detected
+data/sad/PublicTest_12632735.jpg,sad,PublicTest,sad,48,48,2527.77810160319,108.74175347222223,no face detected
+data/sad/PublicTest_12828896.jpg,sad,PublicTest,sad,48,48,777.4088421103395,95.39149305555556,no face detected
+data/sad/PublicTest_13416655.jpg,sad,PublicTest,sad,48,48,1657.4701214072145,128.37543402777777,no face detected
+data/sad/PublicTest_15348300.jpg,sad,PublicTest,sad,48,48,1165.9261291880664,123.33767361111111,no face detected
+data/sad/PublicTest_16705730.jpg,sad,PublicTest,sad,48,48,664.2440132800443,131.52951388888889,no face detected
+data/sad/PublicTest_18767838.jpg,sad,PublicTest,sad,48,48,1285.1575694143037,57.62022569444444,no face detected
+data/sad/PublicTest_19663674.jpg,sad,PublicTest,sad,48,48,1860.5448674331476,219.52604166666666,no face detected
+data/sad/PublicTest_21312852.jpg,sad,PublicTest,sad,48,48,496.57550256046244,75.9609375,no face detected
+data/sad/PublicTest_22093964.jpg,sad,PublicTest,sad,48,48,1008.7171103395061,109.58376736111111,no face detected
+data/sad/PublicTest_22944375.jpg,sad,PublicTest,sad,48,48,658.9885915120443,42.259548611111114,no face detected
+data/sad/PublicTest_22967870.jpg,sad,PublicTest,sad,48,48,2004.3004947238499,105.62196180555556,no face detected
+data/sad/PublicTest_2430252.jpg,sad,PublicTest,sad,48,48,1639.611111111111,74.15277777777777,no face detected
+data/sad/PublicTest_2639637.jpg,sad,PublicTest,sad,48,48,922.3001234266493,38.28211805555556,too dark: mean_gray=38.3 < 40
+data/sad/PublicTest_27524139.jpg,sad,PublicTest,sad,48,48,500.95144295398103,141.72178819444446,no face detected
+data/sad/PublicTest_27864303.jpg,sad,PublicTest,sad,48,48,2065.6991916232637,147.52430555555554,no face detected
+data/sad/PublicTest_28691129.jpg,sad,PublicTest,sad,48,48,955.7000137140723,103.63194444444444,no face detected
+data/sad/PublicTest_29822400.jpg,sad,PublicTest,sad,48,48,1792.3681452244887,145.33984375,no face detected
+data/sad/PublicTest_30579707.jpg,sad,PublicTest,sad,48,48,1073.7541948483313,169.43315972222223,no face detected
+data/sad/PublicTest_30799574.jpg,sad,PublicTest,sad,48,48,1321.3585069444443,156.19965277777777,no face detected
+data/sad/PublicTest_31266486.jpg,sad,PublicTest,sad,48,48,1364.9593760172527,100.00347222222223,no face detected
+data/sad/PublicTest_31572261.jpg,sad,PublicTest,sad,48,48,2161.8999739281926,113.19835069444444,no face detected
+data/sad/PublicTest_32322308.jpg,sad,PublicTest,sad,48,48,1393.768036265432,104.36631944444444,no face detected
+data/sad/PublicTest_33237183.jpg,sad,PublicTest,sad,48,48,970.2723205943166,126.06076388888889,no face detected
+data/sad/PublicTest_33620072.jpg,sad,PublicTest,sad,48,48,2475.028401504328,83.58723958333333,no face detected
+data/sad/PublicTest_34867089.jpg,sad,PublicTest,sad,48,48,880.0310322325907,111.24175347222223,no face detected
+data/sad/PublicTest_36454160.jpg,sad,PublicTest,sad,48,48,886.8472401183329,109.67881944444444,no face detected
+data/sad/PublicTest_37735455.jpg,sad,PublicTest,sad,48,48,1203.1354701666185,164.07899305555554,no face detected
+data/sad/PublicTest_3833581.jpg,sad,PublicTest,sad,48,48,1250.3741048177083,130.69704861111111,no face detected
+data/sad/PublicTest_38685191.jpg,sad,PublicTest,sad,48,48,1860.7384965684678,33.017795138888886,too dark: mean_gray=33.0 < 40
+data/sad/PublicTest_38870662.jpg,sad,PublicTest,sad,48,48,2496.6575995551216,154.71137152777777,no face detected
+data/sad/PublicTest_39817717.jpg,sad,PublicTest,sad,48,48,1687.8320838080515,159.27994791666666,no face detected
+data/sad/PublicTest_40104653.jpg,sad,PublicTest,sad,48,48,4086.0111151801207,150.76085069444446,no face detected
+data/sad/PublicTest_40543993.jpg,sad,PublicTest,sad,48,48,508.9812456295814,110.2265625,no face detected
+data/sad/PublicTest_40637892.jpg,sad,PublicTest,sad,48,48,2317.887449476454,125.83637152777777,no face detected
+data/sad/PublicTest_49194442.jpg,sad,PublicTest,sad,48,48,2255.376980063356,148.23090277777777,no face detected
+data/sad/PublicTest_49324808.jpg,sad,PublicTest,sad,48,48,1773.4863324577427,101.97178819444444,no face detected
+data/sad/PublicTest_49946426.jpg,sad,PublicTest,sad,48,48,1368.2514284863885,145.24565972222223,no face detected
+data/sad/PublicTest_50152754.jpg,sad,PublicTest,sad,48,48,1429.9304860432942,134.48697916666666,no face detected
+data/sad/PublicTest_53469582.jpg,sad,PublicTest,sad,48,48,1541.6830843701775,33.29210069444444,too dark: mean_gray=33.3 < 40
+data/sad/PublicTest_53807292.jpg,sad,PublicTest,sad,48,48,627.1815093240621,147.12890625,no face detected
+data/sad/PublicTest_55333410.jpg,sad,PublicTest,sad,48,48,1420.4392811339578,91.95616319444444,no face detected
+data/sad/PublicTest_5757614.jpg,sad,PublicTest,sad,48,48,782.1324681411555,76.76953125,no face detected
+data/sad/PublicTest_58832520.jpg,sad,PublicTest,sad,48,48,868.0290751516084,80.82378472222223,no face detected
+data/sad/PublicTest_59509827.jpg,sad,PublicTest,sad,48,48,1747.6114720474054,121.88324652777777,no face detected
+data/sad/PublicTest_60783446.jpg,sad,PublicTest,sad,48,48,1718.5763700508776,94.546875,no face detected
+data/sad/PublicTest_6137385.jpg,sad,PublicTest,sad,48,48,1516.6112007800443,133.06944444444446,no face detected
+data/sad/PublicTest_61505344.jpg,sad,PublicTest,sad,48,48,1941.4260779486763,133.875,no face detected
+data/sad/PublicTest_62517424.jpg,sad,PublicTest,sad,48,48,1998.2982296413845,120.89887152777777,no face detected
+data/sad/PublicTest_62757931.jpg,sad,PublicTest,sad,48,48,1832.5059490439332,130.94618055555554,no face detected
+data/sad/PublicTest_64746852.jpg,sad,PublicTest,sad,48,48,2431.1837156319325,107.32291666666667,no face detected
+data/sad/PublicTest_65970977.jpg,sad,PublicTest,sad,48,48,2779.721624680507,92.71657986111111,no face detected
+data/sad/PublicTest_66693020.jpg,sad,PublicTest,sad,48,48,999.2050086127388,92.6640625,no face detected
+data/sad/PublicTest_69107577.jpg,sad,PublicTest,sad,48,48,2254.491391028887,88.55598958333333,no face detected
+data/sad/PublicTest_69589440.jpg,sad,PublicTest,sad,48,48,1772.8595852322048,141.33637152777777,no face detected
+data/sad/PublicTest_70551961.jpg,sad,PublicTest,sad,48,48,7778.673309702932,123.15798611111111,no face detected
+data/sad/PublicTest_7226402.jpg,sad,PublicTest,sad,48,48,257.2858042775849,24.83767361111111,too dark: mean_gray=24.8 < 40
+data/sad/PublicTest_73890577.jpg,sad,PublicTest,sad,48,48,1903.0328502890507,159.8671875,no face detected
+data/sad/PublicTest_75602005.jpg,sad,PublicTest,sad,48,48,2216.6076974751036,170.06380208333334,no face detected
+data/sad/PublicTest_75763309.jpg,sad,PublicTest,sad,48,48,186.4872080485026,20.49001736111111,too dark: mean_gray=20.5 < 40
+data/sad/PublicTest_76577305.jpg,sad,PublicTest,sad,48,48,2504.8385348849824,151.19227430555554,no face detected
+data/sad/PublicTest_79151739.jpg,sad,PublicTest,sad,48,48,1325.7519772376543,98.80078125,no face detected
+data/sad/PublicTest_79438349.jpg,sad,PublicTest,sad,48,48,1262.1861225646219,135.85807291666666,no face detected
+data/sad/PublicTest_8012914.jpg,sad,PublicTest,sad,48,48,920.0024587372203,166.88628472222223,no face detected
+data/sad/PublicTest_81022074.jpg,sad,PublicTest,sad,48,48,980.1737527729553,107.54470486111111,no face detected
+data/sad/PublicTest_823879.jpg,sad,PublicTest,sad,48,48,915.2706432578005,129.25520833333334,no face detected
+data/sad/PublicTest_83014731.jpg,sad,PublicTest,sad,48,48,117.29408075780046,236.89105902777777,too bright: mean_gray=236.9 > 220
+data/sad/PublicTest_84089466.jpg,sad,PublicTest,sad,48,48,917.0613318549263,112.62586805555556,no face detected
+data/sad/PublicTest_85476276.jpg,sad,PublicTest,sad,48,48,1279.6556886272665,119.91623263888889,no face detected
+data/sad/PublicTest_86100904.jpg,sad,PublicTest,sad,48,48,4212.464228123794,111.01822916666667,no face detected
+data/sad/PublicTest_87587744.jpg,sad,PublicTest,sad,48,48,2160.6134975103687,113.70052083333333,no face detected
+data/sad/PublicTest_87833009.jpg,sad,PublicTest,sad,48,48,1531.0035669774184,104.78081597222223,no face detected
+data/sad/PublicTest_88885149.jpg,sad,PublicTest,sad,48,48,9570.996987236871,113.22916666666667,no face detected
+data/sad/PublicTest_90947429.jpg,sad,PublicTest,sad,48,48,998.6170722113716,117.16319444444444,no face detected
+data/sad/PublicTest_91356883.jpg,sad,PublicTest,sad,48,48,1724.9618324939115,191.63802083333334,no face detected
+data/sad/PublicTest_91459478.jpg,sad,PublicTest,sad,48,48,1572.436622713819,92.78949652777777,no face detected
+data/sad/PublicTest_91585163.jpg,sad,PublicTest,sad,48,48,1642.2709235674072,107.68706597222223,no face detected
+data/sad/PublicTest_93955309.jpg,sad,PublicTest,sad,48,48,1964.4290093315972,45.75390625,no face detected
+data/sad/PublicTest_95058441.jpg,sad,PublicTest,sad,48,48,819.5997510368442,78.24826388888889,no face detected
+data/sad/PublicTest_96234770.jpg,sad,PublicTest,sad,48,48,2002.4729086793498,52.252170138888886,no face detected
+data/sad/PublicTest_96594744.jpg,sad,PublicTest,sad,48,48,975.8718864535108,142.59895833333334,no face detected
+data/sad/PublicTest_97293623.jpg,sad,PublicTest,sad,48,48,1817.130485628858,87.21657986111111,no face detected
+data/sad/PublicTest_97307607.jpg,sad,PublicTest,sad,48,48,3738.2697390332632,151.93663194444446,no face detected
+data/sad/PublicTest_97841068.jpg,sad,PublicTest,sad,48,48,1723.5931258966893,115.52430555555556,no face detected
+data/sad/PublicTest_98020112.jpg,sad,PublicTest,sad,48,48,1157.6518055480203,105.67274305555556,no face detected
+data/sad/PublicTest_99116679.jpg,sad,PublicTest,sad,48,48,590.7124294704861,135.2734375,no face detected
+data/sad/PublicTest_99393604.jpg,sad,PublicTest,sad,48,48,855.4858517116971,79.60112847222223,no face detected
+data/sad/PublicTest_99654006.jpg,sad,PublicTest,sad,48,48,1416.6293282214506,84.30815972222223,no face detected
