@@ -1,0 +1,23 @@
+[project]
+name = "model"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Barradas13",email = "febarradas13@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas (>=3.1.1,<4.0.0)",
+    "scikit-learn (>=1.9.1,<2.0.0)",
+    "matplotlib (>=3.11.2,<4.0.0)"
+]
+
+# This project is a collection of scripts, not an installable package:
+# there is no `src/model` module, so Poetry must not try to build/install it.
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
